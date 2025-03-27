@@ -1,4 +1,4 @@
-package project.bookmanagement.config;
+package org.example.librarymanagementsystem.config;
 
 import io.swagger.v3.oas.annotations.ExternalDocumentation;
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
