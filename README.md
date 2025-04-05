@@ -45,4 +45,4 @@ The **Library Management System** is a Spring Boot application designed to manag
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/44J-jottabyte/LibraryManagementSystem.git
+   git clone https://github.com/EugeneKhalilzade/Library-Management-System.git
